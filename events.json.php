@@ -3,7 +3,7 @@
 	"result": [
 		{
 			"id": "293",
-			"title": "This is warning class event with very long title to check how it fits to evet in day view",
+			"title": "wHAT",
 			"url": "http://www.example.com/",
 			"class": "event-warning",
 			"start": "1362938400000",
@@ -11,7 +11,7 @@
 		},
 		{
 			"id": "256",
-			"title": "Event that ends on timeline",
+			"title": "AASAAS",
 			"url": "http://www.example.com/",
 			"class": "event-warning",
 			"start": "1363155300000",
@@ -19,7 +19,7 @@
 		},
 		{
 			"id": "276",
-			"title": "Short day event",
+			"title": "ASSASA",
 			"url": "http://www.example.com/",
 			"class": "event-success",
 			"start": "1363245600000",
@@ -27,7 +27,7 @@
 		},
 		{
 			"id": "294",
-			"title": "This is information class ",
+			"title": "ASSASAS ",
 			"url": "http://www.example.com/",
 			"class": "event-info",
 			"start": "1363111200000",
@@ -35,7 +35,7 @@
 		},
 		{
 			"id": "297",
-			"title": "This is success event",
+			"title": "SAASSSA",
 			"url": "http://www.example.com/",
 			"class": "event-success",
 			"start": "1363234500000",
@@ -43,7 +43,7 @@
 		},
 		{
 			"id": "54",
-			"title": "This is simple event",
+			"title": "ASSASAAS",
 			"url": "http://www.example.com/",
 			"class": "",
 			"start": "1363712400000",
@@ -51,7 +51,7 @@
 		},
 		{
 			"id": "532",
-			"title": "This is inverse event",
+			"title": "ASSAASAS",
 			"url": "http://www.example.com/",
 			"class": "event-inverse",
 			"start": "1364407200000",
